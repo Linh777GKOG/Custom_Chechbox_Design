@@ -36,4 +36,7 @@ label span {
   height: 150px;
   background: url(Coffee_01.png);
   background-size: auto 150px;
+  background-repeat: no-repeat;
+  transition: 1.5s;
+  transform: rotate(-180deg);
 }
