@@ -24,3 +24,16 @@ label {
   justify-content: center;
   align-items: center;
 }
+
+label input {
+  appearance: none;
+}
+
+label span {
+  position: absolute;
+  left: 0;
+  width: 175px;
+  height: 150px;
+  background: url(Coffee_01.png);
+  background-size: auto 150px;
+}
